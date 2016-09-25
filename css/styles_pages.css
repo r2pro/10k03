@@ -1,0 +1,123 @@
+body,html,div,span,h1,h2,h3,h4,h5,h6,p,ul,ol,li,blockquote,form,input {
+margin:0;
+padding:0;
+border:0
+}
+
+img {
+border:none;
+outline:none
+max-width:100%;
+}
+
+ul,ol {
+list-style:none
+}
+
+table,tr,td {
+max-width:100%
+}
+
+td ul li {
+list-style-type:disc;
+margin:0;
+padding:0
+}
+
+html {
+height: 100%;
+background-color: #8C959F;
+-webkit-text-size-adjust:100%;
+-ms-text-size-adjust:100%
+}
+
+
+body {
+min-height: 100%;
+margin:0 auto;
+display:block;
+background: #efefef;
+font-family:Georgia, Times, serif;
+font-style:normal;
+color:#333;
+font-size:16px;
+line-height:150%;
+width:300px;
+max-width:100%;
+}
+
+
+
+label, input
+	{line-height: 200%;
+	color: #333;
+	padding-left: 5px;
+	font-family: helvetica, verdana, arial, sans-serif;}
+
+
+input[type="radio"] {
+    background-color: #fff;   
+    border-radius: 10px;
+    border: 1px solid #afb5bd;
+    cursor: pointer;
+    display: inline-block;
+    height: 14px;
+    position: relative;
+    width: 14px;
+    -webkit-appearance: none;
+	}
+
+input[type="radio"]:checked {background-color: #afb5bd;}
+
+
+.question
+	{font-family: georgia, times, serif;
+	font-size: 18px; 
+	color:#8C959F; 
+	margin-top: 10px;
+	margin-bottom: 5px;
+	line-height: 140%;
+	}
+
+
+.quiz
+	{padding: 10px;}
+
+
+.name p
+	{
+	margin: 0 auto;
+	display: block;
+	font-family: georgia, times, serif;
+	font-size: 30px; color:#9199A4; 
+	text-align: left;
+	padding-left: 10px;
+	text-transform: capitalize;
+	line-height: 140%;
+	background: #000;
+	}
+
+
+.name img
+	{margin: 0 auto;
+	display: block;
+	max-width:100%;
+	}
+
+
+.nav
+	{ margin: 0 auto; display: block; color: #ccc; padding-left: 10px; padding-bottom:20px;}
+
+.nav a
+	{ padding: 4px; margin: o auto; display: inline-block;
+	font-variant: small-caps; font-family: helvetica, verdana, arial, sans-serif; font-size: 19px; 
+	}
+
+
+
+               
+a { text-decoration: none; color: #333; }
+a:link { color: #333;  }
+a:visited { color: #333; }
+a:active { color: #333;  }
+a:hover { color: #9199A4;  }
