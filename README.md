@@ -5,6 +5,7 @@ Star Quiz  - Do you really know them?
 How well do you know you favorite actors? 
 
 Discover now, answering to these quizzes about Angelina Jolie, Brad Pitt, Charlize Theron and many others.
+
 Prove if you are (or not) a true fan, in this 10kB site.
 
 Demo:
